@@ -1,0 +1,86 @@
+/* Mudando a cor de fundo da barra de navegação */
+.navbar {
+    background-color: #4A1F30; /* Escolha a cor que preferir */
+}
+
+/* Mudando a cor de fundo da navegação (opcional) */
+.nav-tabs .nav-link {
+    background-color: #4A1F30; /* Correspondência com a cor da navbar */
+    color: #F2E457; /* Cor do texto */
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #4A1F30; /* Cor de fundo para o link ativo */
+}
+
+.nav-tabs .nav-link:hover{ 
+    background-color: white;
+    color: black;
+}
+
+#login {
+    margin-left: 780px;
+}
+
+body{
+    background-color: red; /*ñ funcionou*/
+}
+
+.rodape{
+    font-size: 8px;
+}
+
+/*===PÁGINA INDEX.HTML===*/
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    margin-top: 3.8em;
+    margin-left: 20px;
+    background-color: rgba(186, 186, 189, 0.3);
+}
+
+.compra_passagem{
+    margin: 20px;
+    background-color: #4A1F30;
+    color: #F2E457;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.passagens{
+    background-image: url(images/background_passagem.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.conforto{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 32px;
+    color: #4A1F30;
+    font-weight: bold;
+}
+
+h2{
+    margin-left: 100px;
+}
+
+h3{
+    margin-left: 320px;
+    font-weight: bold;
+}
+
+/*===PÁGINA INDEX.HTML===*/
+
+
+
+/*===PÁGINA DESINOS.HTML===*/
+
+.destinos{
+    margin-top: 30px; /*ñ funcionou*/
+}
+
+/*===PÁGINA DESINOS.HTML===*/
+
+
